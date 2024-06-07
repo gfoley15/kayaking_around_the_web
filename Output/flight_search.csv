@@ -1,0 +1,252 @@
+_id,trip_id,outbound_date,return_date,outbound_departure_time,outbound_arrival_time,outbound_flight_duration,outbound_route,outbound_airline,return_departure_time,return_arrival_time,return_flight_duration,return_route,return_airline,price,tier,outbound_airport,IATA
+66625a1a41e0a51a5b39e3cf,0,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,2:28 pm,3:30 pm,2h 02m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d0,1,2024-06-07,2024-06-10,7:44 pm,6:14 am,9h 30m,MCI-ATL,Frontier,9:29 am,8:59 pm,12h 30m,ATL-MCI,Frontier,$360,Economy,MCI,ATL
+66625a1a41e0a51a5b39e3d1,2,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,10:05 am,11:08 am,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d2,3,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,1:07 pm,2:10 pm,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d3,4,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,8:10 am,9:14 am,2h 04m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d4,5,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,4:31 pm,5:36 pm,2h 05m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d5,6,2024-06-07,2024-06-10,10:19 am,1:14 pm,1h 55m,MCI-ATL,Delta,7:49 pm,8:55 pm,2h 06m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d6,7,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,2:28 pm,3:30 pm,2h 02m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d7,8,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,10:05 am,11:08 am,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d8,9,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,1:07 pm,2:10 pm,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3d9,10,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,8:10 am,9:14 am,2h 04m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3da,11,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,4:31 pm,5:36 pm,2h 05m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3db,12,2024-06-07,2024-06-10,7:05 am,10:07 am,2h 02m,MCI-ATL,Delta,7:49 pm,8:55 pm,2h 06m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3dc,13,2024-06-07,2024-06-10,4:38 pm,7:43 pm,2h 05m,MCI-ATL,Delta,2:28 pm,3:30 pm,2h 02m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3dd,14,2024-06-07,2024-06-10,4:38 pm,7:43 pm,2h 05m,MCI-ATL,Delta,10:05 am,11:08 am,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3de,15,2024-06-07,2024-06-10,4:38 pm,7:43 pm,2h 05m,MCI-ATL,Delta,1:07 pm,2:10 pm,2h 03m,ATL-MCI,Delta,$777,Main Cabin,MCI,ATL
+66625a1a41e0a51a5b39e3df,0,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,3:31 pm,5:04 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e0,1,2024-06-07,2024-06-10,7:44 pm,2:49 pm,19h 05m,MCI-DFW,Frontier,10:56 pm,8:15 am,9h 19m,DFW-MCI,Frontier,$263,Economy,MCI,DFW
+66625a1a41e0a51a5b39e3e1,2,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,7:45 pm,9:18 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e2,3,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,5:27 pm,7:00 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e3,4,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,9:20 am,10:53 am,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e4,5,2024-06-07,2024-06-10,5:57 pm,7:40 pm,1h 43m,MCI-DFW,American Airlines,5:27 pm,7:00 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e5,6,2024-06-07,2024-06-10,5:57 pm,7:40 pm,1h 43m,MCI-DFW,American Airlines,9:20 am,10:53 am,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e6,7,2024-06-07,2024-06-10,5:57 pm,7:40 pm,1h 43m,MCI-DFW,American Airlines,7:45 pm,9:18 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e7,8,2024-06-07,2024-06-10,5:57 pm,7:40 pm,1h 43m,MCI-DFW,American Airlines,3:31 pm,5:04 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e8,9,2024-06-07,2024-06-10,1:40 pm,3:28 pm,1h 48m,MCI-DFW,American Airlines,5:27 pm,7:00 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3e9,10,2024-06-07,2024-06-10,1:40 pm,3:28 pm,1h 48m,MCI-DFW,American Airlines,9:20 am,10:53 am,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3ea,11,2024-06-07,2024-06-10,1:40 pm,3:28 pm,1h 48m,MCI-DFW,American Airlines,7:45 pm,9:18 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3eb,12,2024-06-07,2024-06-10,1:40 pm,3:28 pm,1h 48m,MCI-DFW,American Airlines,3:31 pm,5:04 pm,1h 33m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3ec,13,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,1:35 pm,3:08 pm,1h 33m,DFW-MCI,American Airlines,$534,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3ed,14,2024-06-07,2024-06-10,5:57 pm,7:40 pm,1h 43m,MCI-DFW,American Airlines,1:35 pm,3:08 pm,1h 33m,DFW-MCI,American Airlines,$534,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3ee,15,2024-06-07,2024-06-10,4:23 pm,6:04 pm,1h 41m,MCI-DFW,American Airlines,7:16 am,9:04 am,1h 48m,DFW-MCI,American Airlines,$493,Main Cabin,MCI,DFW
+66625a1a41e0a51a5b39e3ef,0,2024-06-07,2024-06-10,7:44 pm,8:41 pm,1h 57m,MCI-DEN,Frontier,9:56 am,12:36 pm,1h 40m,DEN-MCI,Frontier,$482,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f0,1,2024-06-07,2024-06-10,7:44 pm,8:41 pm,1h 57m,MCI-DEN,Frontier,6:31 am,8:59 pm,13h 28m,DEN-MCI,Frontier,$340,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f1,2,2024-06-07,2024-06-10,6:15 am,7:05 am,1h 50m,MCI-DEN,United Airlines,9:57 am,12:37 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f2,3,2024-06-07,2024-06-10,6:15 am,7:05 am,1h 50m,MCI-DEN,United Airlines,1:36 pm,4:16 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f3,4,2024-06-07,2024-06-10,9:41 am,10:35 am,1h 54m,MCI-DEN,United Airlines,9:57 am,12:37 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f4,5,2024-06-07,2024-06-10,9:41 am,10:35 am,1h 54m,MCI-DEN,United Airlines,1:36 pm,4:16 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f5,6,2024-06-07,2024-06-10,6:15 am,7:05 am,1h 50m,MCI-DEN,United Airlines,8:52 pm,11:35 pm,1h 43m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f6,7,2024-06-07,2024-06-10,6:15 am,7:05 am,1h 50m,MCI-DEN,United Airlines,5:50 pm,8:34 pm,1h 44m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f7,8,2024-06-07,2024-06-10,1:50 pm,2:45 pm,1h 55m,MCI-DEN,United Airlines,1:36 pm,4:16 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f8,9,2024-06-07,2024-06-10,1:50 pm,2:45 pm,1h 55m,MCI-DEN,United Airlines,9:57 am,12:37 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3f9,10,2024-06-07,2024-06-10,5:25 pm,6:20 pm,1h 55m,MCI-DEN,United Airlines,1:36 pm,4:16 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3fa,11,2024-06-07,2024-06-10,5:25 pm,6:20 pm,1h 55m,MCI-DEN,United Airlines,9:57 am,12:37 pm,1h 40m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3fb,12,2024-06-07,2024-06-10,9:41 am,10:35 am,1h 54m,MCI-DEN,United Airlines,8:52 pm,11:35 pm,1h 43m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3fc,13,2024-06-07,2024-06-10,9:41 am,10:35 am,1h 54m,MCI-DEN,United Airlines,5:50 pm,8:34 pm,1h 44m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3fd,14,2024-06-07,2024-06-10,1:50 pm,2:45 pm,1h 55m,MCI-DEN,United Airlines,8:52 pm,11:35 pm,1h 43m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3fe,15,2024-06-07,2024-06-10,5:25 pm,6:20 pm,1h 55m,MCI-DEN,United Airlines,8:52 pm,11:35 pm,1h 43m,DEN-MCI,United Airlines,$661,Economy,MCI,DEN
+66625a1a41e0a51a5b39e3ff,0,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,2:53 pm,8:04 pm,3h 11m,LAX-MCI,Spirit Airlines,$382,Economy,MCI,LAX
+66625a1a41e0a51a5b39e400,1,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,10:54 pm,6:09 am,5h 15m,LAX-MCI,Spirit Airlines,$424,Economy,MCI,LAX
+66625a1a41e0a51a5b39e401,2,2024-06-07,2024-06-10,6:10 pm,10:43 pm,6h 33m,MCI-LAX,Sun Country Air,2:53 pm,8:04 pm,3h 11m,LAX-MCI,Spirit Airlines,$449,Economy,MCI,LAX
+66625a1a41e0a51a5b39e402,3,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,8:20 pm,6:09 am,7h 49m,LAX-MCI,Spirit Airlines,$424,Economy,MCI,LAX
+66625a1a41e0a51a5b39e403,4,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,8:39 am,5:17 pm,6h 38m,LAX-MCI,Sun Country Air,$504,Economy,MCI,LAX
+66625a1a41e0a51a5b39e404,5,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,6:23 am,4:21 pm,7h 58m,LAX-MCI,Spirit Airlines,$424,Economy,MCI,LAX
+66625a1a41e0a51a5b39e405,6,2024-06-07,2024-06-10,8:55 pm,10:25 pm,3h 30m,MCI-LAX,Spirit Airlines,7:20 pm,6:09 am,8h 49m,LAX-MCI,Spirit Airlines,$424,Economy,MCI,LAX
+66625a1a41e0a51a5b39e406,7,2024-06-07,2024-06-10,3:11 pm,4:40 pm,3h 29m,MCI-LAX,Delta,9:01 am,2:16 pm,3h 15m,LAX-MCI,Delta,$867,Basic Economy,MCI,LAX
+66625a1a41e0a51a5b39e407,8,2024-06-07,2024-06-10,3:09 pm,8:28 pm,7h 19m,MCI-LAX,Alaska Airlines,2:53 pm,8:04 pm,3h 11m,LAX-MCI,Spirit Airlines,$604,"Saver, Economy",MCI,LAX
+66625a1a41e0a51a5b39e408,9,2024-06-07,2024-06-10,6:10 pm,10:43 pm,6h 33m,MCI-LAX,Sun Country Air,10:54 pm,6:09 am,5h 15m,LAX-MCI,Spirit Airlines,$481,Economy,MCI,LAX
+66625a1a41e0a51a5b39e409,10,2024-06-07,2024-06-10,7:00 am,1:12 pm,8h 12m,MCI-LAX,Alaska Airlines,2:53 pm,8:04 pm,3h 11m,LAX-MCI,Spirit Airlines,$604,"Saver, Economy",MCI,LAX
+66625a1a41e0a51a5b39e40a,11,2024-06-07,2024-06-10,3:09 pm,9:44 pm,8h 35m,MCI-LAX,Alaska Airlines,2:53 pm,8:04 pm,3h 11m,LAX-MCI,Spirit Airlines,$604,"Saver, Economy",MCI,LAX
+66625a1a41e0a51a5b39e40b,12,2024-06-07,2024-06-10,3:11 pm,4:40 pm,3h 29m,MCI-LAX,Delta,10:05 am,5:30 pm,5h 25m,LAX-MCI,Delta,$877,Basic Economy,MCI,LAX
+66625a1a41e0a51a5b39e40c,13,2024-06-07,2024-06-10,2:30 pm,6:19 pm,5h 49m,MCI-LAX,Delta,9:01 am,2:16 pm,3h 15m,LAX-MCI,Delta,$877,Basic Economy,MCI,LAX
+66625a1a41e0a51a5b39e40d,14,2024-06-07,2024-06-10,6:10 pm,10:43 pm,6h 33m,MCI-LAX,Sun Country Air,8:39 am,5:17 pm,6h 38m,LAX-MCI,Sun Country Air,$554,Economy,MCI,LAX
+66625a1a41e0a51a5b39e40e,0,2024-06-07,2024-06-10,7:08 am,8:45 am,1h 37m,MCI-ORD,American Airlines,3:15 pm,4:43 pm,1h 28m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e40f,1,2024-06-07,2024-06-10,5:38 pm,7:15 pm,1h 37m,MCI-ORD,American Airlines,3:15 pm,4:43 pm,1h 28m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e410,2,2024-06-07,2024-06-10,7:08 am,8:45 am,1h 37m,MCI-ORD,American Airlines,8:24 pm,9:58 pm,1h 34m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e411,3,2024-06-07,2024-06-10,5:38 pm,7:15 pm,1h 37m,MCI-ORD,American Airlines,8:24 pm,9:58 pm,1h 34m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e412,4,2024-06-07,2024-06-10,11:38 am,1:15 pm,1h 37m,MCI-ORD,United Airlines,8:20 pm,9:55 pm,1h 35m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e413,5,2024-06-07,2024-06-10,7:08 am,8:45 am,1h 37m,MCI-ORD,American Airlines,1:57 pm,3:32 pm,1h 35m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e414,6,2024-06-07,2024-06-10,5:38 pm,7:15 pm,1h 37m,MCI-ORD,American Airlines,1:57 pm,3:32 pm,1h 35m,ORD-MCI,American Airlines,$601,Main Cabin,MCI,ORD
+66625a1a41e0a51a5b39e415,7,2024-06-07,2024-06-10,3:31 pm,5:08 pm,1h 37m,MCI-ORD,United Airlines,8:20 pm,9:55 pm,1h 35m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e416,8,2024-06-07,2024-06-10,11:38 am,1:15 pm,1h 37m,MCI-ORD,United Airlines,12:59 pm,2:35 pm,1h 36m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e417,9,2024-06-07,2024-06-10,3:31 pm,5:08 pm,1h 37m,MCI-ORD,United Airlines,12:59 pm,2:35 pm,1h 36m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e418,10,2024-06-07,2024-06-10,6:29 pm,8:07 pm,1h 38m,MCI-ORD,United Airlines,8:20 pm,9:55 pm,1h 35m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e419,11,2024-06-07,2024-06-10,6:29 pm,8:07 pm,1h 38m,MCI-ORD,United Airlines,12:59 pm,2:35 pm,1h 36m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e41a,12,2024-06-07,2024-06-10,8:00 am,9:41 am,1h 41m,MCI-ORD,United Airlines,8:20 pm,9:55 pm,1h 35m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e41b,13,2024-06-07,2024-06-10,11:38 am,1:15 pm,1h 37m,MCI-ORD,United Airlines,7:00 am,8:39 am,1h 39m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e41c,14,2024-06-07,2024-06-10,3:31 pm,5:08 pm,1h 37m,MCI-ORD,United Airlines,7:00 am,8:39 am,1h 39m,ORD-MCI,United Airlines,$601,Economy,MCI,ORD
+66625a1a41e0a51a5b39e41d,0,2024-06-07,2024-06-10,10:00 am,1:59 pm,2h 59m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$332,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e41e,1,2024-06-07,2024-06-10,5:54 pm,10:00 pm,3h 06m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$407,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e41f,2,2024-06-07,2024-06-10,4:46 pm,8:50 pm,3h 04m,MCI-JFK,JetBlue,1:34 pm,3:51 pm,3h 17m,JFK-MCI,JetBlue,$467,Blue,MCI,JFK
+66625a1a41e0a51a5b39e420,3,2024-06-07,2024-06-10,10:00 am,1:59 pm,2h 59m,MCI-JFK,Delta,8:00 am,10:14 am,3h 14m,JFK-MCI,Delta,$517,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e421,4,2024-06-07,2024-06-10,5:49 pm,11:26 pm,4h 37m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$342,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e422,5,2024-06-07,2024-06-10,5:54 pm,10:00 pm,3h 06m,MCI-JFK,Delta,8:00 am,10:14 am,3h 14m,JFK-MCI,Delta,$592,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e423,6,2024-06-07,2024-06-10,5:49 pm,11:26 pm,4h 37m,MCI-JFK,Delta,8:00 am,10:14 am,3h 14m,JFK-MCI,Delta,$527,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e424,7,2024-06-07,2024-06-10,4:38 pm,11:58 pm,6h 20m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$342,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e425,8,2024-06-07,2024-06-10,10:00 am,1:59 pm,2h 59m,MCI-JFK,Delta,5:30 pm,10:11 pm,5h 41m,JFK-MCI,Delta,$558,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e426,9,2024-06-07,2024-06-10,10:00 am,1:59 pm,2h 59m,MCI-JFK,Delta,6:00 am,11:08 am,6h 08m,JFK-MCI,Delta,$558,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e427,10,2024-06-07,2024-06-10,10:00 am,1:59 pm,2h 59m,MCI-JFK,Delta,2:59 pm,8:55 pm,6h 56m,JFK-MCI,Delta,$442,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e428,11,2024-06-07,2024-06-10,4:38 pm,11:58 pm,6h 20m,MCI-JFK,Delta,8:00 am,10:14 am,3h 14m,JFK-MCI,Delta,$527,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e429,12,2024-06-07,2024-06-10,5:54 pm,10:00 pm,3h 06m,MCI-JFK,Delta,5:30 pm,10:11 pm,5h 41m,JFK-MCI,Delta,$633,Main Cabin,MCI,JFK
+66625a1a41e0a51a5b39e42a,13,2024-06-07,2024-06-10,3:16 pm,11:58 pm,7h 42m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$342,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e42b,14,2024-06-07,2024-06-10,3:27 pm,11:56 pm,7h 29m,MCI-JFK,Delta,2:55 pm,5:14 pm,3h 19m,JFK-MCI,Delta,$417,Basic Economy,MCI,JFK
+66625a1a41e0a51a5b39e42c,0,2024-06-07,2024-06-10,5:28 pm,9:27 pm,2h 59m,MCI-MCO,Spirit Airlines,8:55 pm,10:49 pm,2h 54m,MCO-MCI,Spirit Airlines,$436,Economy,MCI,MCO
+66625a1a41e0a51a5b39e42d,1,2024-06-07,2024-06-10,5:28 pm,9:27 pm,2h 59m,MCI-MCO,Spirit Airlines,6:50 am,8:39 am,2h 49m,MCO-MCI,Spirit Airlines,$433,Economy,MCI,MCO
+66625a1a41e0a51a5b39e42e,2,2024-06-07,2024-06-10,5:28 pm,9:27 pm,2h 59m,MCI-MCO,Spirit Airlines,9:20 am,5:17 pm,8h 57m,MCO-MCI,Sun Country Air,$425,Economy,MCI,MCO
+66625a1a41e0a51a5b39e42f,3,2024-06-07,2024-06-10,5:28 pm,9:27 pm,2h 59m,MCI-MCO,Spirit Airlines,8:55 pm,10:49 pm,2h 54m,MCO-MCI,Spirit Airlines,$435,Economy,MCI,MCO
+66625a1a41e0a51a5b39e430,4,2024-06-07,2024-06-10,5:10 am,9:09 am,2h 59m,MCI-MCO,Spirit Airlines,6:50 am,8:39 am,2h 49m,MCO-MCI,Spirit Airlines,$435,Economy,MCI,MCO
+66625a1a41e0a51a5b39e431,5,2024-06-07,2024-06-10,5:10 am,9:09 am,2h 59m,MCI-MCO,Spirit Airlines,8:55 pm,10:49 pm,2h 54m,MCO-MCI,Spirit Airlines,$435,Economy,MCI,MCO
+66625a1a41e0a51a5b39e432,6,2024-06-07,2024-06-10,4:20 pm,9:51 pm,4h 31m,MCI-MCO,American Airlines,1:53 pm,5:38 pm,4h 45m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e433,7,2024-06-07,2024-06-10,4:20 pm,9:51 pm,4h 31m,MCI-MCO,American Airlines,11:44 am,3:30 pm,4h 46m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e434,8,2024-06-07,2024-06-10,11:47 am,5:40 pm,4h 53m,MCI-MCO,American Airlines,1:53 pm,5:38 pm,4h 45m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e435,9,2024-06-07,2024-06-10,11:47 am,5:40 pm,4h 53m,MCI-MCO,American Airlines,11:44 am,3:30 pm,4h 46m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e436,10,2024-06-07,2024-06-10,6:28 pm,12:30 am,5h 02m,MCI-MCO,American Airlines,1:53 pm,5:38 pm,4h 45m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e437,11,2024-06-07,2024-06-10,6:28 pm,12:30 am,5h 02m,MCI-MCO,American Airlines,11:44 am,3:30 pm,4h 46m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e438,12,2024-06-07,2024-06-10,4:20 pm,9:51 pm,4h 31m,MCI-MCO,American Airlines,6:31 pm,10:57 pm,5h 26m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e439,13,2024-06-07,2024-06-10,4:20 pm,9:51 pm,4h 31m,MCI-MCO,American Airlines,6:35 am,11:12 am,5h 37m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e43a,14,2024-06-07,2024-06-10,4:23 pm,10:46 pm,5h 23m,MCI-MCO,American Airlines,1:53 pm,5:38 pm,4h 45m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e43b,15,2024-06-07,2024-06-10,4:23 pm,10:46 pm,5h 23m,MCI-MCO,American Airlines,11:44 am,3:30 pm,4h 46m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e43c,16,2024-06-07,2024-06-10,11:47 am,5:40 pm,4h 53m,MCI-MCO,American Airlines,6:31 pm,10:57 pm,5h 26m,MCO-MCI,American Airlines,$686,Main Cabin,MCI,MCO
+66625a1a41e0a51a5b39e43d,0,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,6:05 am,12:36 pm,4h 31m,LAS-MCI,Frontier,$372,Economy,MCI,LAS
+66625a1a41e0a51a5b39e43e,1,2024-06-07,2024-06-10,7:44 pm,11:54 pm,6h 10m,MCI-LAS,Frontier,8:12 pm,8:15 am,10h 03m,LAS-MCI,Frontier,$256,Economy,MCI,LAS
+66625a1a41e0a51a5b39e43f,2,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,6:05 am,12:36 pm,4h 31m,LAS-MCI,Frontier,$372,Economy,MCI,LAS
+66625a1a41e0a51a5b39e440,3,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,11:27 am,4:21 pm,2h 54m,LAS-MCI,Spirit Airlines,$528,Economy,MCI,LAS
+66625a1a41e0a51a5b39e441,4,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,11:27 am,4:21 pm,2h 54m,LAS-MCI,Spirit Airlines,$528,Economy,MCI,LAS
+66625a1a41e0a51a5b39e442,5,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,1:20 am,6:09 am,2h 49m,LAS-MCI,Spirit Airlines,$526,Economy,MCI,LAS
+66625a1a41e0a51a5b39e443,6,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,1:20 am,6:09 am,2h 49m,LAS-MCI,Spirit Airlines,$526,Economy,MCI,LAS
+66625a1a41e0a51a5b39e444,7,2024-06-07,2024-06-10,7:44 pm,11:54 pm,6h 10m,MCI-LAS,Frontier,11:27 am,4:21 pm,2h 54m,LAS-MCI,Spirit Airlines,$427,Economy,MCI,LAS
+66625a1a41e0a51a5b39e445,8,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,9:27 am,5:17 pm,5h 50m,LAS-MCI,Sun Country Air,$521,Economy,MCI,LAS
+66625a1a41e0a51a5b39e446,9,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,9:27 am,5:17 pm,5h 50m,LAS-MCI,Sun Country Air,$521,Economy,MCI,LAS
+66625a1a41e0a51a5b39e447,10,2024-06-07,2024-06-10,7:44 pm,11:54 pm,6h 10m,MCI-LAS,Frontier,1:20 am,6:09 am,2h 49m,LAS-MCI,Spirit Airlines,$427,Economy,MCI,LAS
+66625a1a41e0a51a5b39e448,11,2024-06-07,2024-06-10,7:44 pm,11:54 pm,6h 10m,MCI-LAS,Frontier,9:27 am,5:17 pm,5h 50m,LAS-MCI,Sun Country Air,$417,Economy,MCI,LAS
+66625a1a41e0a51a5b39e449,12,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,8:12 pm,8:15 am,10h 03m,LAS-MCI,Frontier,$373,Economy,MCI,LAS
+66625a1a41e0a51a5b39e44a,13,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,8:12 pm,8:15 am,10h 03m,LAS-MCI,Frontier,$373,Economy,MCI,LAS
+66625a1a41e0a51a5b39e44b,14,2024-06-07,2024-06-10,9:51 am,10:48 am,2h 57m,MCI-LAS,Spirit Airlines,10:00 am,7:04 pm,7h 04m,LAS-MCI,Alaska Airlines,$659,"Economy, Saver",MCI,LAS
+66625a1a41e0a51a5b39e44c,15,2024-06-07,2024-06-10,6:59 am,7:56 am,2h 57m,MCI-LAS,Spirit Airlines,10:00 am,7:04 pm,7h 04m,LAS-MCI,Alaska Airlines,$659,"Economy, Saver",MCI,LAS
+66625a1a41e0a51a5b39e44d,0,2024-06-07,2024-06-10,4:20 pm,7:40 pm,2h 20m,MCI-CLT,American Airlines,2:09 pm,3:30 pm,2h 21m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e44e,1,2024-06-07,2024-06-10,4:20 pm,7:40 pm,2h 20m,MCI-CLT,American Airlines,4:15 pm,5:38 pm,2h 23m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e44f,2,2024-06-07,2024-06-10,6:28 pm,9:50 pm,2h 22m,MCI-CLT,American Airlines,2:09 pm,3:30 pm,2h 21m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e450,3,2024-06-07,2024-06-10,6:28 pm,9:50 pm,2h 22m,MCI-CLT,American Airlines,4:15 pm,5:38 pm,2h 23m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e451,4,2024-06-07,2024-06-10,11:47 am,3:06 pm,2h 19m,MCI-CLT,American Airlines,2:09 pm,3:30 pm,2h 21m,CLT-MCI,American Airlines,$561,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e452,5,2024-06-07,2024-06-10,11:47 am,3:06 pm,2h 19m,MCI-CLT,American Airlines,4:15 pm,5:38 pm,2h 23m,CLT-MCI,American Airlines,$561,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e453,6,2024-06-07,2024-06-10,4:20 pm,7:40 pm,2h 20m,MCI-CLT,American Airlines,9:35 pm,10:57 pm,2h 22m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e454,7,2024-06-07,2024-06-10,6:28 pm,9:50 pm,2h 22m,MCI-CLT,American Airlines,9:35 pm,10:57 pm,2h 22m,CLT-MCI,American Airlines,$477,Basic Economy,MCI,CLT
+66625a1a41e0a51a5b39e455,8,2024-06-07,2024-06-10,11:47 am,3:06 pm,2h 19m,MCI-CLT,American Airlines,9:35 pm,10:57 pm,2h 22m,CLT-MCI,American Airlines,$561,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e456,9,2024-06-07,2024-06-10,5:05 am,8:25 am,2h 20m,MCI-CLT,American Airlines,2:09 pm,3:30 pm,2h 21m,CLT-MCI,American Airlines,$641,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e457,10,2024-06-07,2024-06-10,5:05 am,8:25 am,2h 20m,MCI-CLT,American Airlines,4:15 pm,5:38 pm,2h 23m,CLT-MCI,American Airlines,$641,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e458,11,2024-06-07,2024-06-10,4:20 pm,7:40 pm,2h 20m,MCI-CLT,American Airlines,9:35 am,11:12 am,2h 37m,CLT-MCI,American Airlines,$781,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e459,12,2024-06-07,2024-06-10,11:47 am,3:06 pm,2h 19m,MCI-CLT,American Airlines,9:35 am,11:12 am,2h 37m,CLT-MCI,American Airlines,$795,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e45a,13,2024-06-07,2024-06-10,6:28 pm,9:50 pm,2h 22m,MCI-CLT,American Airlines,9:35 am,11:12 am,2h 37m,CLT-MCI,American Airlines,$781,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e45b,14,2024-06-07,2024-06-10,5:05 am,8:25 am,2h 20m,MCI-CLT,American Airlines,9:35 pm,10:57 pm,2h 22m,CLT-MCI,American Airlines,$641,Main Cabin,MCI,CLT
+66625a1a41e0a51a5b39e45c,0,2024-06-07,2024-06-10,5:14 am,9:20 am,3h 06m,MCI-MIA,American Airlines,9:35 pm,11:59 pm,3h 24m,MIA-MCI,American Airlines,$827,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e45d,1,2024-06-07,2024-06-10,7:44 pm,12:08 am+2,27h 24m,MCI-MIA,Frontier,7:30 am,8:15 am,25h 45m,MIA-MCI,Frontier,$314,Economy,MCI,MIA
+66625a1a41e0a51a5b39e45e,2,2024-06-07,2024-06-10,3:16 pm,9:00 pm,4h 44m,MCI-MIA,Delta,6:12 pm,10:11 pm,4h 59m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e45f,3,2024-06-07,2024-06-10,3:16 pm,9:00 pm,4h 44m,MCI-MIA,Delta,7:05 am,11:08 am,5h 03m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e460,4,2024-06-07,2024-06-10,5:14 am,9:20 am,3h 06m,MCI-MIA,American Airlines,11:00 am,3:30 pm,5h 30m,MIA-MCI,American Airlines,$837,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e461,5,2024-06-07,2024-06-10,3:16 pm,9:00 pm,4h 44m,MCI-MIA,Delta,4:43 pm,8:55 pm,5h 12m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e462,6,2024-06-07,2024-06-10,3:16 pm,9:00 pm,4h 44m,MCI-MIA,Delta,7:42 pm,11:58 pm,5h 16m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e463,7,2024-06-07,2024-06-10,4:38 pm,10:49 pm,5h 11m,MCI-MIA,Delta,6:12 pm,10:11 pm,4h 59m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e464,8,2024-06-07,2024-06-10,5:14 am,9:20 am,3h 06m,MCI-MIA,American Airlines,3:43 pm,8:35 pm,5h 52m,MIA-MCI,American Airlines,$837,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e465,9,2024-06-07,2024-06-10,4:38 pm,10:49 pm,5h 11m,MCI-MIA,Delta,7:05 am,11:08 am,5h 03m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e466,10,2024-06-07,2024-06-10,5:57 pm,12:38 am,5h 41m,MCI-MIA,American Airlines,9:35 pm,11:59 pm,3h 24m,MIA-MCI,American Airlines,$837,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e467,11,2024-06-07,2024-06-10,6:41 pm,1:01 am,5h 20m,MCI-MIA,Delta,6:12 pm,10:11 pm,4h 59m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e468,12,2024-06-07,2024-06-10,5:14 am,9:20 am,3h 06m,MCI-MIA,American Airlines,7:30 am,12:30 pm,6h 00m,MIA-MCI,American Airlines,$837,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e469,13,2024-06-07,2024-06-10,4:38 pm,10:49 pm,5h 11m,MCI-MIA,Delta,4:43 pm,8:55 pm,5h 12m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e46a,14,2024-06-07,2024-06-10,6:41 pm,1:01 am,5h 20m,MCI-MIA,Delta,7:05 am,11:08 am,5h 03m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e46b,15,2024-06-07,2024-06-10,4:38 pm,10:49 pm,5h 11m,MCI-MIA,Delta,7:42 pm,11:58 pm,5h 16m,MIA-MCI,Delta,$846,Main Cabin,MCI,MIA
+66625a1a41e0a51a5b39e46c,0,2024-06-07,2024-06-10,7:00 am,8:48 am,3h 48m,MCI-SEA,Alaska Airlines,6:25 pm,11:59 pm,3h 34m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e46d,1,2024-06-07,2024-06-10,6:10 pm,9:02 am,16h 52m,MCI-SEA,Sun Country Air,9:07 am,5:17 pm,6h 10m,SEA-MCI,Sun Country Air,$545,Economy,MCI,SEA
+66625a1a41e0a51a5b39e46e,2,2024-06-07,2024-06-10,6:45 am,8:46 am,4h 01m,MCI-SEA,Delta,5:45 pm,11:21 pm,3h 36m,SEA-MCI,Delta,$757,Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e46f,3,2024-06-07,2024-06-10,7:00 am,8:48 am,3h 48m,MCI-SEA,Alaska Airlines,1:27 pm,7:04 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e470,4,2024-06-07,2024-06-10,7:00 am,8:48 am,3h 48m,MCI-SEA,Alaska Airlines,8:37 am,2:14 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e471,5,2024-06-07,2024-06-10,3:09 pm,4:59 pm,3h 50m,MCI-SEA,Alaska Airlines,6:25 pm,11:59 pm,3h 34m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e472,6,2024-06-07,2024-06-10,7:59 pm,9:50 pm,3h 51m,MCI-SEA,Alaska Airlines,6:25 pm,11:59 pm,3h 34m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e473,7,2024-06-07,2024-06-10,3:09 pm,4:59 pm,3h 50m,MCI-SEA,Alaska Airlines,8:37 am,2:14 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e474,8,2024-06-07,2024-06-10,3:09 pm,4:59 pm,3h 50m,MCI-SEA,Alaska Airlines,1:27 pm,7:04 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e475,9,2024-06-07,2024-06-10,7:59 pm,9:50 pm,3h 51m,MCI-SEA,Alaska Airlines,8:37 am,2:14 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e476,10,2024-06-07,2024-06-10,7:59 pm,9:50 pm,3h 51m,MCI-SEA,Alaska Airlines,1:27 pm,7:04 pm,3h 37m,SEA-MCI,Alaska Airlines,$757,Saver,MCI,SEA
+66625a1a41e0a51a5b39e477,11,2024-06-07,2024-06-10,6:25 pm,10:18 pm,5h 53m,MCI-SEA,Delta,5:45 pm,11:21 pm,3h 36m,SEA-MCI,Delta,$767,Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e478,12,2024-06-07,2024-06-10,2:30 pm,6:52 pm,6h 22m,MCI-SEA,Delta,5:45 pm,11:21 pm,3h 36m,SEA-MCI,Delta,$767,Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e479,13,2024-06-07,2024-06-10,7:29 pm,11:55 pm,6h 26m,MCI-SEA,Delta,5:45 pm,11:21 pm,3h 36m,SEA-MCI,Delta,$767,Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e47a,14,2024-06-07,2024-06-10,6:45 am,8:46 am,4h 01m,MCI-SEA,Delta,6:05 am,2:18 pm,6h 13m,SEA-MCI,Delta,$767,Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e47b,15,2024-06-07,2024-06-10,7:00 am,8:48 am,3h 48m,MCI-SEA,American Airlines,6:25 pm,11:59 pm,3h 34m,SEA-MCI,American Airlines,"$1,097",Main Cabin,MCI,SEA
+66625a1a41e0a51a5b39e47c,0,2024-06-07,2024-06-10,6:00 am,7:50 am,3h 50m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$423,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e47d,1,2024-06-07,2024-06-10,6:15 am,9:27 am,5h 12m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e47e,2,2024-06-07,2024-06-10,5:25 pm,8:40 pm,5h 15m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e47f,3,2024-06-07,2024-06-10,1:50 pm,5:50 pm,6h 00m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e480,4,2024-06-07,2024-06-10,6:00 am,7:50 am,3h 50m,MCI-SFO,United Airlines,3:45 pm,11:35 pm,5h 50m,SFO-MCI,United Airlines,$485,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e481,5,2024-06-07,2024-06-10,3:12 pm,8:12 pm,7h 00m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e482,6,2024-06-07,2024-06-10,6:00 am,11:18 am,7h 18m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e483,7,2024-06-07,2024-06-10,1:50 pm,7:11 pm,7h 21m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e484,8,2024-06-07,2024-06-10,6:00 am,7:50 am,3h 50m,MCI-SFO,United Airlines,2:23 pm,11:35 pm,7h 12m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e485,9,2024-06-07,2024-06-10,6:30 pm,12:01 am,7h 31m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e486,10,2024-06-07,2024-06-10,6:29 pm,12:01 am,7h 32m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e487,11,2024-06-07,2024-06-10,5:25 pm,11:05 pm,7h 40m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e488,12,2024-06-07,2024-06-10,6:25 pm,9:50 pm,5h 25m,MCI-SFO,Delta,6:30 am,2:16 pm,5h 46m,SFO-MCI,Delta,$442,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e489,13,2024-06-07,2024-06-10,6:15 am,12:07 pm,7h 52m,MCI-SFO,United Airlines,6:55 pm,12:35 am,3h 40m,SFO-MCI,United Airlines,$428,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e48a,14,2024-06-07,2024-06-10,6:00 am,7:50 am,3h 50m,MCI-SFO,United Airlines,6:30 am,4:16 pm,7h 46m,SFO-MCI,United Airlines,$433,Basic Economy,MCI,SFO
+66625a1a41e0a51a5b39e48b,0,2024-06-07,2024-06-10,7:00 am,10:48 am,2h 48m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$456,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e48c,1,2024-06-07,2024-06-10,4:20 pm,10:42 pm,5h 22m,MCI-EWR,American Airlines,6:10 am,11:12 am,6h 02m,EWR-MCI,American Airlines,$403,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e48d,2,2024-06-07,2024-06-10,2:59 pm,7:00 pm,3h 01m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$626,Economy,MCI,EWR
+66625a1a41e0a51a5b39e48e,3,2024-06-07,2024-06-10,6:29 pm,12:55 am,5h 26m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$425,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e48f,4,2024-06-07,2024-06-10,7:00 am,10:48 am,2h 48m,MCI-EWR,United Airlines,10:30 am,2:35 pm,5h 05m,EWR-MCI,United Airlines,$649,Economy,MCI,EWR
+66625a1a41e0a51a5b39e490,5,2024-06-07,2024-06-10,5:49 pm,11:01 pm,4h 12m,MCI-EWR,Delta,7:37 pm,11:58 pm,5h 21m,EWR-MCI,Delta,$456,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e491,6,2024-06-07,2024-06-10,5:49 pm,11:01 pm,4h 12m,MCI-EWR,Delta,4:14 pm,8:55 pm,5h 41m,EWR-MCI,Delta,$456,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e492,7,2024-06-07,2024-06-10,3:31 pm,9:36 pm,5h 05m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$705,Economy,MCI,EWR
+66625a1a41e0a51a5b39e493,8,2024-06-07,2024-06-10,2:59 pm,7:00 pm,3h 01m,MCI-EWR,United Airlines,10:30 am,2:35 pm,5h 05m,EWR-MCI,United Airlines,$739,Economy,MCI,EWR
+66625a1a41e0a51a5b39e494,9,2024-06-07,2024-06-10,4:20 pm,10:42 pm,5h 22m,MCI-EWR,American Airlines,5:59 pm,9:58 pm,4h 59m,EWR-MCI,American Airlines,$430,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e495,10,2024-06-07,2024-06-10,5:49 pm,11:01 pm,4h 12m,MCI-EWR,Delta,7:00 am,11:08 am,5h 08m,EWR-MCI,Delta,$586,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e496,11,2024-06-07,2024-06-10,3:31 pm,11:30 pm,6h 59m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$500,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e497,12,2024-06-07,2024-06-10,6:41 pm,12:59 am,5h 18m,MCI-EWR,Delta,7:37 pm,11:58 pm,5h 21m,EWR-MCI,Delta,$456,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e498,13,2024-06-07,2024-06-10,4:38 pm,10:59 pm,5h 21m,MCI-EWR,Delta,7:37 pm,11:58 pm,5h 21m,EWR-MCI,Delta,$456,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e499,14,2024-06-07,2024-06-10,5:49 pm,11:01 pm,4h 12m,MCI-EWR,Delta,5:42 pm,10:11 pm,5h 29m,EWR-MCI,Delta,$586,Main Cabin,MCI,EWR
+66625a1a41e0a51a5b39e49a,15,2024-06-07,2024-06-10,3:12 pm,10:59 pm,6h 47m,MCI-EWR,United Airlines,7:55 pm,10:01 pm,3h 06m,EWR-MCI,United Airlines,$556,Basic Economy,MCI,EWR
+66625a1a41e0a51a5b39e49b,0,2024-06-07,2024-06-10,2:45 pm,3:33 pm,2h 48m,MCI-PHX,American Airlines,7:10 pm,11:44 pm,2h 34m,PHX-MCI,American Airlines,$817,Main Cabin,MCI,PHX
+66625a1a41e0a51a5b39e49c,1,2024-06-07,2024-06-10,6:15 am,8:40 am,4h 25m,MCI-PHX,United Airlines,4:40 pm,11:35 pm,4h 55m,PHX-MCI,United Airlines,$352,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e49d,2,2024-06-07,2024-06-10,2:45 pm,3:33 pm,2h 48m,MCI-PHX,American Airlines,9:15 am,1:56 pm,2h 41m,PHX-MCI,American Airlines,$817,Main Cabin,MCI,PHX
+66625a1a41e0a51a5b39e49e,3,2024-06-07,2024-06-10,5:59 am,6:50 am,2h 51m,MCI-PHX,American Airlines,7:10 pm,11:44 pm,2h 34m,PHX-MCI,American Airlines,$817,Main Cabin,MCI,PHX
+66625a1a41e0a51a5b39e49f,4,2024-06-07,2024-06-10,5:59 am,6:50 am,2h 51m,MCI-PHX,American Airlines,9:15 am,1:56 pm,2h 41m,PHX-MCI,American Airlines,$817,Main Cabin,MCI,PHX
+66625a1a41e0a51a5b39e4a0,5,2024-06-07,2024-06-10,6:15 am,8:40 am,4h 25m,MCI-PHX,United Airlines,9:46 am,4:16 pm,4h 30m,PHX-MCI,United Airlines,$409,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a1,6,2024-06-07,2024-06-10,5:25 pm,8:25 pm,5h 00m,MCI-PHX,United Airlines,9:46 am,4:16 pm,4h 30m,PHX-MCI,United Airlines,$409,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a2,7,2024-06-07,2024-06-10,5:25 pm,8:25 pm,5h 00m,MCI-PHX,United Airlines,4:40 pm,11:35 pm,4h 55m,PHX-MCI,United Airlines,$352,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a3,8,2024-06-07,2024-06-10,6:15 am,8:40 am,4h 25m,MCI-PHX,United Airlines,6:00 am,12:37 pm,4h 37m,PHX-MCI,United Airlines,$489,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a4,9,2024-06-07,2024-06-10,1:50 pm,5:00 pm,5h 10m,MCI-PHX,United Airlines,9:46 am,4:16 pm,4h 30m,PHX-MCI,United Airlines,$409,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a5,10,2024-06-07,2024-06-10,1:50 pm,5:00 pm,5h 10m,MCI-PHX,United Airlines,4:40 pm,11:35 pm,4h 55m,PHX-MCI,United Airlines,$352,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a6,11,2024-06-07,2024-06-10,2:30 pm,5:54 pm,5h 24m,MCI-PHX,Delta,5:37 pm,12:30 am,4h 53m,PHX-MCI,Delta,$352,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a7,12,2024-06-07,2024-06-10,6:15 am,8:40 am,4h 25m,MCI-PHX,United Airlines,1:39 pm,8:34 pm,4h 55m,PHX-MCI,United Airlines,$489,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4a8,13,2024-06-07,2024-06-10,2:45 pm,3:33 pm,2h 48m,MCI-PHX,American Airlines,12:22 pm,7:00 pm,4h 38m,PHX-MCI,American Airlines,$827,Main Cabin,MCI,PHX
+66625a1a41e0a51a5b39e4a9,14,2024-06-07,2024-06-10,5:25 pm,8:25 pm,5h 00m,MCI-PHX,United Airlines,6:00 am,12:37 pm,4h 37m,PHX-MCI,United Airlines,$489,Basic Economy,MCI,PHX
+66625a1a41e0a51a5b39e4aa,0,2024-06-07,2024-06-10,6:15 am,8:19 am,2h 04m,MCI-IAH,United Airlines,8:30 pm,10:29 pm,1h 59m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4ab,1,2024-06-07,2024-06-10,7:44 pm,9:53 pm,26h 09m,MCI-IAH,Frontier,10:50 pm,8:15 am,9h 25m,IAH-MCI,Frontier,$385,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4ac,2,2024-06-07,2024-06-10,6:30 pm,8:37 pm,2h 07m,MCI-IAH,United Airlines,8:30 pm,10:29 pm,1h 59m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4ad,3,2024-06-07,2024-06-10,8:35 am,10:45 am,2h 10m,MCI-IAH,United Airlines,8:30 pm,10:29 pm,1h 59m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4ae,4,2024-06-07,2024-06-10,3:12 pm,5:22 pm,2h 10m,MCI-IAH,United Airlines,8:30 pm,10:29 pm,1h 59m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4af,5,2024-06-07,2024-06-10,6:15 am,8:19 am,2h 04m,MCI-IAH,United Airlines,9:57 am,12:02 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b0,6,2024-06-07,2024-06-10,6:15 am,8:19 am,2h 04m,MCI-IAH,United Airlines,12:02 pm,2:07 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b1,7,2024-06-07,2024-06-10,6:30 pm,8:37 pm,2h 07m,MCI-IAH,United Airlines,9:57 am,12:02 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b2,8,2024-06-07,2024-06-10,6:30 pm,8:37 pm,2h 07m,MCI-IAH,United Airlines,12:02 pm,2:07 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b3,9,2024-06-07,2024-06-10,8:35 am,10:45 am,2h 10m,MCI-IAH,United Airlines,9:57 am,12:02 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b4,10,2024-06-07,2024-06-10,8:35 am,10:45 am,2h 10m,MCI-IAH,United Airlines,12:02 pm,2:07 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b5,11,2024-06-07,2024-06-10,3:12 pm,5:22 pm,2h 10m,MCI-IAH,United Airlines,12:02 pm,2:07 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b6,12,2024-06-07,2024-06-10,3:12 pm,5:22 pm,2h 10m,MCI-IAH,United Airlines,9:57 am,12:02 pm,2h 05m,IAH-MCI,United Airlines,$743,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b7,13,2024-06-07,2024-06-10,6:15 am,8:19 am,2h 04m,MCI-IAH,United Airlines,2:30 pm,4:35 pm,2h 05m,IAH-MCI,United Airlines,$813,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b8,14,2024-06-07,2024-06-10,6:30 pm,8:37 pm,2h 07m,MCI-IAH,United Airlines,2:30 pm,4:35 pm,2h 05m,IAH-MCI,United Airlines,$813,Economy,MCI,IAH
+66625a1a41e0a51a5b39e4b9,15,2024-06-07,2024-06-10,8:35 am,10:45 am,2h 10m,MCI-IAH,United Airlines,2:30 pm,4:35 pm,2h 05m,IAH-MCI,United Airlines,$813,Economy,MCI,IAH
+66625dbe41e0a51a5b39e4ba,0,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$689,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4bb,1,2024-06-07,2024-06-10,4:46 pm,12:22 am,6h 36m,MCI-BOS,JetBlue,10:08 am,3:51 pm,6h 43m,BOS-MCI,JetBlue,$433,Blue Basic,MCI,BOS
+66625dbe41e0a51a5b39e4bc,2,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,4:10 pm,6:41 pm,3h 31m,BOS-MCI,Delta,$854,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4bd,3,2024-06-07,2024-06-10,5:49 pm,11:56 pm,5h 07m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4be,4,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,6:00 am,10:14 am,5h 14m,BOS-MCI,Delta,$738,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4bf,5,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,4:00 pm,8:53 pm,5h 53m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c0,6,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,2:00 pm,7:03 pm,6h 03m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c1,7,2024-06-07,2024-06-10,10:19 am,5:04 pm,5h 45m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c2,8,2024-06-07,2024-06-10,6:41 pm,1:31 am,5h 50m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c3,9,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,4:55 pm,10:11 pm,6h 16m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c4,10,2024-06-07,2024-06-10,4:38 pm,11:36 pm,5h 58m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c5,11,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,1:07 pm,4:59 pm,4h 52m,BOS-MCI,Delta,$864,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c6,12,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,3:25 pm,8:55 pm,6h 30m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c7,13,2024-06-07,2024-06-10,10:20 am,3:55 pm,4h 35m,MCI-BOS,Delta,7:50 am,10:17 am,3h 27m,BOS-MCI,Delta,$864,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c8,14,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,3:00 pm,8:53 pm,6h 53m,BOS-MCI,Delta,$699,Main Cabin,MCI,BOS
+66625dbe41e0a51a5b39e4c9,15,2024-06-07,2024-06-10,7:30 pm,11:34 pm,3h 04m,MCI-BOS,Delta,11:00 am,3:22 pm,5h 22m,BOS-MCI,Delta,$864,Main Cabin,MCI,BOS
