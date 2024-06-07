@@ -1,0 +1,51 @@
+Rank,Airport,Location,Country,A/P Code,Total Passengers,IATA,ICAO Code
+1., Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,ATL/KATL,"104,653,451",ATL,KATL
+2., Dubai International Airport,"Garhoud, Dubai, Dubai",United Arab Emirates,DXB/OMDB,"86,994,365",DXB,OMDB
+3., Dallas Fort Worth International Airport,"Dallas–Fort Worth, Texas",United States,DFW/KDFW,"81,755,538",DFW,KDFW
+4., Heathrow Airport,"Hillingdon, London",United Kingdom,LHR/EGLL,"79,183,364",LHR,EGLL
+5., Tokyo Haneda Airport,"Ōta, Tokyo",Japan,HND/RJTT,"78,719,302",HND,RJTT
+6., Denver International Airport,"Denver, Colorado",United States,DEN/KDEN,"77,837,917",DEN,KDEN
+7., Istanbul Airport,"Arnavutköy, Istanbul",Turkey,IST/LTFM,"76,027,321",IST,LTFM
+8., Los Angeles International Airport,"Los Angeles, California",United States,LAX/KLAX,"75,050,875",LAX,KLAX
+9., O'Hare International Airport,"Chicago, Illinois",United States,ORD/KORD,"73,894,226",ORD,KORD
+10., Indira Gandhi International Airport,"Palam, Delhi",India,DEL/VIDP,"72,214,841",DEL,VIDP
+11., Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,CDG/LFPG,"67,421,316",CDG,LFPG
+12., Guangzhou Baiyun International Airport,"Baiyun-Huadu, Guangzhou, Guangdong",China,CAN/ZGGG,"63,169,169",CAN,ZGGG
+13., John F. Kennedy International Airport,"Queens, New York, New York",United States,JFK/KJFK,"62,464,331",JFK,KJFK
+14., Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,AMS/EHAM,"61,889,586",AMS,EHAM
+15., Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD/LEMD,"60,181,604",MAD,LEMD
+16., Frankfurt Airport,"Frankfurt, Hesse",Germany,FRA/EDDF,"59,355,389",FRA,EDDF
+17., Singapore Changi Airport,"Changi, East Region",Singapore,SIN/WSSS,"58,946,000",SIN,WSSS
+18., Orlando International Airport,"Orlando, Florida",United States,MCO/KMCO,"57,735,726",MCO,KMCO
+19., Harry Reid International Airport,"Las Vegas, Nevada",United States,LAS/KLAS,"57,666,456",LAS,KLAS
+20., Seoul Incheon International Airport,Incheon,South Korea,ICN/RKSI,"56,235,412",ICN,RKSI
+21., Shanghai Pudong International Airport,"Pudong, Shanghai",China,PVG/ZSPD,"54,476,397",PVG,ZSPD
+22., Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,CLT/KCLT,"53,445,770",CLT,KCLT
+23., Beijing Capital International Airport,"Chaoyang-Shunyi, Beijing",China,PEK/ZBAA,"52,879,156",PEK,ZBAA
+24., Shenzhen Bao'an International Airport,"Bao'an, Shenzhen, Guangdong",China,SZX/ZGSZ,"52,734,934",SZX,ZGSZ
+25., Miami International Airport,"Miami-Dade County, Florida",United States,MIA/KMIA,"52,340,934",MIA,KMIA
+26., Suvarnabhumi Airport,"Racha Thewa, Bangkok metro",Thailand,BKK/VTBS,"51,699,104",BKK,VTBS
+27., Chhatrapati Shivaji Maharaj International Airport,"Santacruz-Sahar, Mumbai, Maharashtra",India,BOM/VABB,"51,589,040",BOM,VABB
+28., Seattle–Tacoma International Airport,"SeaTac, Washington",United States,SEA/KSEA,"50,877,260",SEA,KSEA
+29., San Francisco International Airport,"San Mateo County, California",United States,SFO/KSFO,"50,196,094",SFO,KSFO
+30., Josep Tarradellas Barcelona–El Prat Airport,Barcelona,Spain,BCN/LEBL,"49,883,928",BCN,LEBL
+31., Newark Liberty International Airport,"Newark, New Jersey",United States,EWR/KEWR,"49,084,774",EWR,KEWR
+32., Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,CGK/WIII,"49,080,532",CGK,WIII
+33., Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,PHX/KPHX,"48,654,432",PHX,KPHX
+34., Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,MEX/MMMX,"48,416,008",MEX,MMMX
+35., Kuala Lumpur International Airport,"Sepang, Selangor",Malaysia,KUL/WMKK,"47,242,468",KUL,WMKK
+36., George Bush Intercontinental Airport,"Houston, Texas",United States,IAH/KIAH,"46,168,662",IAH,KIAH
+37., Hamad International Airport,Doha,Qatar,DOH/OTHH,"45,916,098",DOH,OTHH
+38., Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,MNL/RPLL,"45,300,322",MNL,RPLL
+39., Chengdu Tianfu International Airport,"Jianyang, Chengdu, Sichuan",China,TFU/ZUTF,"44,786,032",TFU,ZUTF
+40., Toronto Pearson International Airport,"Mississauga, Ontario",Canada,YYZ/CYYZ,"44,761,805",YYZ,CYYZ
+41., Chongqing Jiangbei International Airport,Chongqing,China,CKG/ZUCK,"44,657,268",CKG,ZUCK
+42., King Abdulaziz International Airport,Jeddah,Saudi Arabia,JED/OEJN,"42,910,407",JED,OEJN
+43., Shanghai Hongqiao International Airport,Shanghai,China,SHA/ZSSS,"42,492,745",SHA,ZSSS
+44., Kunming Changshui International Airport,"Kunming, Yunnan",China,KMG/ZPPP,"42,053,214",KMG,ZPPP
+45., Xi'an Xianyang International Airport,"Xi'an, Shaanxi",China,XIY/ZLXY,"41,371,228",XIY,ZLXY
+46., São Paulo/Guarulhos International Airport,São Paulo,Brazil,GRU/SBGR,"41,307,919",GRU,SBGR
+47., Hangzhou Xiaoshan International Airport,"Hangzhou, Zhejiang",China,HGH/ZSHC,"41,170,470",HGH,ZSHC
+48., Gatwick Airport,"Crawley, West Sussex",United Kingdom,LGW/EGKK,"40,905,856",LGW,EGKK
+49., Logan International Airport,"Boston, Massachusetts",United States,BOS/KBOS,"40,861,658",BOS,KBOS
+50., Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,SGN/VVTS,"40,738,295",SGN,VVTS
