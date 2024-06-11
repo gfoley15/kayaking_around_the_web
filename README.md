@@ -1,5 +1,5 @@
-# sqlalchemy-challenge
-KU Boot Camp Week 10
+# Project 2: kayaking_around_the_web
+
 
 # Part 3: Data Load Documentation _[Albert]_
 
