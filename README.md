@@ -1,10 +1,27 @@
 # Project 2: kayaking_around_the_web
+This project scrapes flight data from kayak.com for the 50 busiest airports in the world according to the 2023 Wikipedia source. The code extracts extracts airport codes from the Wikipedia source, which are then used to run a flight search on kayak.com to find the best flights from our home airport in Kansas City - MCI (Kansas City International Airport). Flight data is then transformed using MongoDB and pandas in order to load into a postgreSQL database.
 
+ - The Wikipedia source for the list of busiest airports by passenger traffic in 2023. https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic.
+ - Kayak.com for providing flight data.
+ - MongoDB and postgreSQL for database storage.
 
-# Part 3: Data Load Documentation _[Albert]_
+To install the repository, clone (git clone) using SSH to your local computer using GitBash. Once the repository is installed, navigate to the directory in GitBash and launch jupyter notebook.
 
+# Part 1: Extract Data
+ - Open 01_Extract.ipynb in Jupyter Notebook.
+ - Run the notebook to extract data from Wikipedia's 2023 busiest airport list
+ - Continue to run notebook cells to use extracted airport codes in kayak.com flight search. User will be asked to input outbound and return flight dates to be used in the search.
+ - A for loop will web scrape the flight search data for all airport routes from MCI an then append to a MongoDB database collection called flight_search.
+ - Once the web scraping is complete, the MongoDB collection will be filled with all flight search results and ready for investigation, transformations.
+
+# Part 2: Transform Data
+ - With all flight search data in MongoDB, open 02_Transform.ipynb in Jupyter Notebook.
+ - Run all cells in the notebook to clean the data from kayak.com. This will split out outbound airport locations to IATA codes for relationship with the airport table in the SQL schema and remove "+1" from time values.
+ - Cleaned data will be placed into a DataFrame and then exported to a CSV for SQL database table import.
+   
+# Part 3: Load Data _[Albert]_
 ## Overview
-This document outlines the process and steps involved in the Load phase of the ETL process for Project 2. The Load phase was executed in four main steps: 1) creating an ERD to guide the database schema setup, 2) creating the database schema, 3) loading data using pgAdmin 4, and 4) modifying data types to prepare for future analysis.
+This outlines the process and steps involved in the Load phase of the ETL process for Project 2. The Load phase was executed in four main steps: 1) creating an ERD to guide the database schema setup, 2) creating the database schema, 3) loading data using pgAdmin 4, and 4) modifying data types to prepare for future analysis.
 
 ## Entity Relationship Diagram (ERD)
 The ERD for this project was developed using QuickERD, an intuitive online tool that simplifies the creation of ERDs. QuickERD provided a user-friendly interface to visually construct the database schema and served as a visual guide for the database structure, facilitating an understanding of table relationships and data flow.
