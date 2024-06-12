@@ -19,12 +19,13 @@ To install the repository, clone (git clone) using SSH to your local computer us
  - Run all cells in the notebook to clean the data from kayak.com. This will split out outbound airport locations to IATA codes for relationship with the airport table in the SQL schema and remove "+1" from time values.
  - Cleaned data will be placed into a DataFrame and then exported to a CSV for SQL database table import.
    
-# Part 3: Load Data _[Albert]_
+# Part 3: Load Data
+
 ## Overview
 This outlines the process and steps involved in the Load phase of the ETL process for Project 2. The Load phase was executed in four main steps: 1) creating an ERD to guide the database schema setup, 2) creating the database schema, 3) loading data using pgAdmin 4, and 4) modifying data types to prepare for future analysis.
 
 ## Entity Relationship Diagram (ERD)
-The ERD for this project was developed using QuickERD, an intuitive online tool that simplifies the creation of ERDs. QuickERD provided a user-friendly interface to visually construct the database schema and served as a visual guide for the database structure, facilitating an understanding of table relationships and data flow.
+The ERD for this project was developed using [QuickERD](https://app.quickdatabasediagrams.com/), an intuitive online tool that simplifies the creation of ERDs. QuickERD provided a user-friendly interface to visually construct the database schema and served as a visual guide for the database structure, facilitating an understanding of table relationships and data flow.
 ![ERD](/ERD.png)
 
 ## Database Schema Setup
