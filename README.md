@@ -1,5 +1,5 @@
 # Project 2: kayaking_around_the_web
-This project scrapes flight data from kayak.com for the 50 busiest airports in the world according to the 2023 Wikipedia source. The code extracts extracts airport codes from the Wikipedia source, which are then used to run a flight search on kayak.com to find the best flights from our home airport in Kansas City - MCI (Kansas City International Airport). Flight data is then transformed using MongoDB and pandas in order to load into a postgreSQL database.
+This project scrapes flight data from kayak.com for the 50 busiest airports in the world according to the 2023 Wikipedia source. The code extracts airport codes from the Wikipedia source, which are then used to run a flight search on kayak.com to find the best flights from our home airport in Kansas City - MCI (Kansas City International Airport). Flight data is then transformed using MongoDB and pandas in order to load into a postgreSQL database.
 
  - The Wikipedia source for the list of busiest airports by passenger traffic in 2023. https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic.
  - Kayak.com for providing flight data.
@@ -11,7 +11,7 @@ To install the repository, clone (git clone) using SSH to your local computer us
  - Open 01_Extract.ipynb in Jupyter Notebook.
  - Run the notebook to extract data from Wikipedia's 2023 busiest airport list
  - Continue to run notebook cells to use extracted airport codes in kayak.com flight search. User will be asked to input outbound and return flight dates to be used in the search.
- - A for loop will web scrape the flight search data for all airport routes from MCI an then append to a MongoDB database collection called flight_search.
+ - A for loop will web scrape the flight search data for all airport routes from MCI and then append to a MongoDB database collection called flight_search.
  - Once the web scraping is complete, the MongoDB collection will be filled with all flight search results and ready for investigation, transformations.
 
 # Part 2: Transform Data
